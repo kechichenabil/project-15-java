@@ -13,6 +13,6 @@ function sorces() {
   }
   setTimeout(function(){
     sorces()
-  },90)
+  },80)
 }
 sorces()
